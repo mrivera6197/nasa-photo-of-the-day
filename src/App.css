@@ -31,21 +31,6 @@
   color: #61dafb;
 }
 
-.dailyPhoto img {
-  width: 70%;
-}
-
-.photoInfo {
-  margin: 5% 20% 5%;
-  line-height: 1.6;
-  /* text-align: start; */
-}
-
-.main-title {
-  text-align: start;
-  margin: 5%;
-  font-size: 1.5rem;
-}
 
 @keyframes App-logo-spin {
   from {
