@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
 .App {
   text-align: center;
 }
@@ -15,7 +18,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,6 +29,22 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.dailyPhoto img {
+  width: 70%;
+}
+
+.photoInfo {
+  margin: 5% 20% 5%;
+  line-height: 1.6;
+  /* text-align: start; */
+}
+
+.main-title {
+  text-align: start;
+  margin: 5%;
+  font-size: 1.5rem;
 }
 
 @keyframes App-logo-spin {
